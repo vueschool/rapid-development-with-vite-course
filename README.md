@@ -1,6 +1,7 @@
 # Rapid Development With Vite
-...Image Here...
-This repository contains the source code for the **Rapid Development with Vite** course.
+![rapid development with vite feature image](https://vueschool.io/media/5b34288ca88b6e1774df678baf62abd7/Rapid-Development-with-Vite_not-transparent.png)
+
+This repository contains the source code for the [Rapid Development with Vite](https://vueschool.io/courses/rapid-development-with-vite) course.
 
 Vite is a first-in-class build tool that aims to provide a faster and leaner development experience for modern web projects. 
 
