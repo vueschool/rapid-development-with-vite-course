@@ -3,7 +3,8 @@
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 import HelloWorld from "./components/HelloWorld.vue";
 import styles from "./assets/example.module.css";
-// import logo from "./assets/logo.png";
+import { developerMood } from "./data.json";
+console.log(developerMood);
 </script>
 
 <template>
