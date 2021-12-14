@@ -4,7 +4,7 @@
 import HelloWorld from "@/components/HelloWorld.vue";
 import styles from "./assets/example.module.css";
 const developerMood: string = "Thrilled for Typescript!";
-console.log(developerMood);
+console.log(import.meta.env);
 </script>
 
 <template>
